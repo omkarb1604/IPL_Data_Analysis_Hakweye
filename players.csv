@@ -1,0 +1,469 @@
+id,fullName,shortName,nationality,dateOfBirth,bowlingStyle,batter_hand,bowler_hand
+7,Murali Vijay,M Vijay,Indian,4/1/84,,R,R
+24,Faf du Plessis,F du Plessis,South African,7/13/84,LEG_SPIN,R,R
+12,Subramaniam Badrinath,S Badrinath,Indian,8/30/80,,R,R
+14,Suresh Raina,S Raina,Indian,11/27/86,OFF_SPIN,L,R
+1,MS Dhoni,MS Dhoni,Indian,7/7/81,MEDIUM_SEAM,R,R
+25,Dwayne Bravo,DJ Bravo,West Indian,10/7/83,MEDIUM_SEAM,R,R
+9,Ravindra Jadeja,R Jadeja,Indian,12/6/88,ORTHODOX,L,L
+26,Albie Morkel,A Morkel,South African,6/10/81,MEDIUM_SEAM,R,R
+8,Ravichandran Ashwin,R Ashwin,Indian,9/17/86,OFF_SPIN,R,R
+10,Shadab Jakati,S Jakati,Indian,11/27/80,ORTHODOX,L,L
+18,Doug Bollinger,D Bollinger,Australian,7/24/81,FAST_SEAM,L,L
+97,Sachin Tendulkar,S Tendulkar,Indian,4/24/73,OFF_SPIN,R,R
+266,Richard Levi,R Levi,South African,1/14/88,,R,L
+100,Ambati Rayudu,A Rayudu,Indian,9/23/85,OFF_SPIN,R,R
+107,Rohit Sharma,R Sharma,Indian,4/30/87,OFF_SPIN,R,R
+102,Dinesh Karthik,D Karthik,Indian,6/1/85,OFF_SPIN,R,R
+210,Kieron Pollard,K Pollard,West Indian,5/12/87,MEDIUM_SEAM,R,R
+209,James Franklin,J Franklin,New Zealander,11/7/80,MEDIUM_SEAM,L,L
+103,Harbhajan Singh,H Singh,Indian,7/3/80,OFF_SPIN,R,R
+211,Lasith Malinga,L Malinga,Sri Lankan,8/28/83,FAST_SEAM,R,R
+98,Abu Nechim,A Nechim,Indian,11/5/88,MEDIUM_SEAM,R,R
+106,Pragyan Ojha,P Ojha,Indian,9/5/86,ORTHODOX,L,L
+84,Gautam Gambhir,G Gambhir,Indian,10/14/81,LEG_SPIN,L,R
+198,Jacques Kallis,J Kallis,South African,10/16/75,FAST_SEAM,R,R
+89,Manoj Tiwary,M Tiwary,Indian,11/14/85,,R,R
+96,Yusuf Pathan,Y Pathan,Indian,11/17/82,OFF_SPIN,R,R
+202,Brendon McCullum,B McCullum,New Zealander,9/27/81,MEDIUM_SEAM,R,R
+88,Laxmi Ratan Shukla,L Ratan Shukla,Indian,5/6/81,MEDIUM_SEAM,R,R
+92,Rajat Bhatia,R Bhatia,Indian,10/22/79,MEDIUM_SEAM,R,R
+196,Brett Lee,B Lee,Australian,11/8/76,FAST_SEAM,R,R
+85,Iqbal Abdulla,I Abdulla,Indian,12/2/89,ORTHODOX,L,L
+204,Marchant de Lange,M de Lange,South African,10/13/90,FAST_SEAM,L,L
+259,Debabrata Das,D Das,Indian,9/22/86,,R,L
+52,Naman Ojha,N Ojha,Indian,7/20/83,,R,R
+45,Virender Sehwag,V Sehwag,Indian,10/20/78,OFF_SPIN,R,R
+167,Aaron Finch,A Finch,Australian,11/17/86,ORTHODOX,R,L
+62,Venugopal Rao,V Rao,Indian,2/26/82,OFF_SPIN,R,R
+282,Glenn Maxwell,G Maxwell,Australian,10/14/88,OFF_SPIN,R,R
+169,Morne Morkel,M Morkel,South African,10/6/84,FAST_SEAM,L,R
+49,Irfan Pathan,I Pathan,Indian,10/27/84,MEDIUM_SEAM,L,L
+64,Yogesh Nagar,Y Nagar,Indian,1/6/90,,R,R
+173,Roelof van der Merwe,R van der Merwe,Dutch,12/31/84,ORTHODOX,R,L
+59,Umesh Yadav,U Yadav,Indian,10/25/87,FAST_SEAM,R,R
+57,Shahbaz Nadeem,S Nadeem,Indian,8/12/89,ORTHODOX,R,L
+108,Suryakumar Yadav,S Yadav,Indian,9/14/90,,R,R
+104,Munaf Patel,M Patel,Indian,7/12/83,MEDIUM_SEAM,R,R
+127,Robin Uthappa,R Uthappa,Indian,11/11/85,,R,R
+130,Sourav Ganguly,S Ganguly,Indian,7/8/72,MEDIUM_SEAM,L,R
+218,Callum Ferguson,C Ferguson,Australian,11/21/84,,R,L
+272,Marlon Samuels,M Samuels,West Indian,2/5/81,OFF_SPIN,R,R
+123,Manish Pandey,M Pandey,Indian,9/10/89,MEDIUM_SEAM,R,R
+271,Steve Smith,S Smith,Australian,6/2/89,LEG_SPIN,R,R
+116,Bhuvneshwar Kumar,B Kumar,Indian,2/5/90,MEDIUM_SEAM,R,R
+126,Rahul Sharma,R Sharma,Indian,11/30/86,LEG_SPIN,R,R
+223,Wayne Parnell,W Parnell,South African,7/30/89,MEDIUM_SEAM,L,L
+125,Murali Kartik,M Kartik,Indian,9/11/76,ORTHODOX,L,L
+48,Ashok Dinda,A Dinda,Indian,3/25/84,FAST_SEAM,R,R
+135,Ajinkya Rahane,A Rahane,Indian,6/6/88,MEDIUM_SEAM,R,R
+131,Rahul Dravid,R Dravid,Indian,1/11/73,OFF_SPIN,R,R
+224,Johan Botha,J Botha,South African,5/2/82,OFF_SPIN,L,L
+139,Ashok Menaria,A Menaria,Indian,10/29/90,ORTHODOX,L,L
+229,Brad Hodge,B Hodge,Australian,12/29/74,OFF_SPIN,R,R
+138,Ankeet Chavan,A Chavan,Indian,10/28/85,ORTHODOX,L,L
+275,Owais Shah,O Shah,English,10/22/78,,R,R
+95,Shreevats Goswami,S Goswami,Indian,5/18/89,,L,L
+232,Kevon Cooper,K Cooper,West Indian,2/2/89,MEDIUM_SEAM,L,L
+137,Amit Singh,A Singh,Indian,6/21/81,MEDIUM_SEAM,R,R
+147,Siddharth Trivedi,S Trivedi,Indian,9/4/82,MEDIUM_SEAM,R,R
+65,Adam Gilchrist,A Gilchrist,Australian,11/14/71,OFF_SPIN,L,R
+66,Abhishek Nayar,A Nayar,Indian,10/8/83,MEDIUM_SEAM,L,L
+69,Bipul Sharma,B Sharma,Indian,9/28/83,ORTHODOX,L,L
+186,David Hussey,D Hussey,Australian,7/15/77,OFF_SPIN,L,L
+75,Paul Valthaty,P Valthaty,Indian,12/7/83,OFF_SPIN,L,L
+191,Shaun Marsh,S Marsh,Australian,7/9/83,ORTHODOX,L,L
+72,Mandeep Singh,M Singh,Indian,12/18/91,OFF_SPIN,R,R
+76,Piyush Chawla,P Chawla,Indian,12/24/88,LEG_SPIN,L,R
+193,James Faulkner,J Faulkner,Australian,4/29/90,MEDIUM_SEAM,R,L
+70,Harmeet Singh Bansal,H Singh Bansal,Indian,10/9/87,MEDIUM_SEAM,R,R
+77,Praveen Kumar,P Kumar,Indian,10/2/86,MEDIUM_SEAM,R,R
+234,Andrew McDonald,A McDonald,Australian,6/5/81,,R,R
+158,Mayank Agarwal,M Agarwal,Indian,2/18/91,,R,R
+164,Virat Kohli,V Kohli,Indian,11/5/88,MEDIUM_SEAM,R,R
+163,Saurabh Tiwary,S Tiwary,Indian,12/30/89,,L,R
+243,Daniel Vettori,D Vettori,New Zealander,1/27/79,ORTHODOX,L,L
+233,AB de Villiers,AB de Villiers,South African,2/17/84,MEDIUM_SEAM,R,R
+166,Vinay Kumar,V Kumar,Indian,2/12/84,MEDIUM_SEAM,R,R
+156,Cheteshwar Pujara,C Pujara,Indian,1/25/88,LEG_SPIN,R,R
+165,Zaheer Khan,Z Khan,Indian,10/7/78,FAST_SEAM,R,L
+157,Harshal Patel,H Patel,Indian,11/23/90,MEDIUM_SEAM,R,R
+241,Muttiah Muralitharan,M Muralitharan,Sri Lankan,4/17/72,OFF_SPIN,R,R
+176,Doug Bracewell,D Bracewell,New Zealander,9/28/90,MEDIUM_SEAM,R,R
+185,Daniel Harris,D Harris,Australian,12/31/75,,L,L
+41,Shikhar Dhawan,S Dhawan,Indian,12/5/85,OFF_SPIN,L,R
+44,Parthiv Patel,P Patel,Indian,3/9/85,,L,L
+35,Bharat Chipli,B Chipli,Indian,1/27/83,,R,R
+178,Cameron White,C White,Australian,8/18/83,,R,R
+181,Dan Christian,D Christian,Australian,5/4/83,MEDIUM_SEAM,R,R
+36,Dwaraka Ravi Teja,D Ravi Teja,Indian,9/5/87,,R,R
+32,Ankit Sharma,A Sharma,Indian,4/20/91,ORTHODOX,L,L
+40,Manpreet Gony,M Gony,Indian,1/1/84,FAST_SEAM,R,R
+246,TP Sudhindra,TP Sudhindra,Indian,4/24/84,MEDIUM_SEAM,R,R
+180,Dale Steyn,D Steyn,South African,6/27/83,FAST_SEAM,R,R
+203,Sunil Narine,S Narine,West Indian,5/26/88,OFF_SPIN,L,R
+220,Jesse Ryder,J Ryder,New Zealander,8/6/84,MEDIUM_SEAM,L,R
+115,Ashish Nehra,A Nehra,Indian,4/29/79,MEDIUM_SEAM,R,L
+188,Dimitri Mascarenhas,D Mascarenhas,English,10/30/77,MEDIUM_SEAM,R,R
+27,Kumar Sangakkara,K Sangakkara,Sri Lankan,10/27/77,OFF_SPIN,L,R
+30,Amit Mishra,A Mishra,Indian,11/24/82,LEG_SPIN,R,R
+31,Anand Rajan,A Rajan,Indian,4/17/87,,L,L
+110,Tirumalasetti Suman,T Suman,Indian,12/15/83,,R,R
+236,Chris Gayle,C Gayle,West Indian,9/21/79,OFF_SPIN,L,R
+90,Manvinder Bisla,M Bisla,Indian,12/27/84,,R,R
+200,Ryan ten Doeschate,R ten Doeschate,Dutch,6/30/80,MEDIUM_SEAM,R,R
+201,Shakib Al Hasan,S Al Hasan,Bangladeshi,3/24/87,ORTHODOX,L,L
+87,Lakshmipathy Balaji,L Balaji,Indian,9/27/81,MEDIUM_SEAM,R,R
+172,Kevin Pietersen,K Pietersen,English,6/27/80,OFF_SPIN,R,R
+175,Mahela Jayawardene,M Jayawardene,Sri Lankan,5/27/77,MEDIUM_SEAM,R,R
+231,Brad Hogg,B Hogg,Australian,2/6/71,UNORTHODOX,L,L
+160,Raju Bhatkal,R Bhatkal,Indian,9/1/85,MEDIUM_SEAM,R,R
+254,Parvinder Awana,P Awana,Indian,7/19/86,MEDIUM_SEAM,R,R
+124,Mithun Manhas,M Manhas,Indian,10/12/79,MEDIUM_SEAM,R,R
+217,Angelo Mathews,A Mathews,Sri Lankan,6/2/87,MEDIUM_SEAM,R,R
+23,Nuwan Kulasekara,N Kulasekara,Sri Lankan,7/22/82,FAST_SEAM,R,R
+15,Yo Mahesh,Y Mahesh,Indian,12/21/87,MEDIUM_SEAM,R,R
+86,Jaydev Unadkat,J Unadkat,Indian,10/18/91,MEDIUM_SEAM,R,L
+74,Paras Dogra,P Dogra,Indian,11/19/84,LEG_SPIN,R,R
+68,Bhargav Bhatt,B Bhatt,Indian,5/13/90,ORTHODOX,L,L
+159,Mohammad Kaif,M Kaif,Indian,12/1/80,,L,L
+162,Sreenath Aravind,S Aravind,Indian,4/8/84,MEDIUM_SEAM,L,L
+144,Pankaj Singh,P Singh,Indian,5/6/85,FAST_SEAM,R,R
+112,RP Singh,RP Singh,Indian,12/6/85,FAST_SEAM,R,L
+208,Davy Jacobs,D Jacobs,South African,2/27/12,,R,L
+207,Clint McKay,C McKay,Australian,2/22/83,FAST_SEAM,R,L
+226,Ross Taylor,R Taylor,New Zealander,3/8/84,OFF_SPIN,R,R
+47,Ajit Agarkar,A Agarkar,Indian,12/4/77,FAST_SEAM,R,R
+141,Dishant Yagnik,D Yagnik,Indian,6/22/83,,L,L
+245,Tanmay Mishra,T Mishra,Kenyan,12/22/86,,R,L
+182,JP Duminy,JP Duminy,South African,4/14/84,OFF_SPIN,L,R
+284,Abhishek Jhunjhunwala,A Jhunjhunwala,Indian,12/1/82,OFF_SPIN,R,R
+240,Tillakaratne Dilshan,T Dilshan,Sri Lankan,10/14/76,OFF_SPIN,R,R
+279,KP Appanna,KP Appanna,Indian,12/20/88,MEDIUM_SEAM,R,R
+250,Veer Pratap Singh,VP Singh,Indian,5/3/92,MEDIUM_SEAM,R,R
+16,Wriddhiman Saha,W Saha,Indian,10/24/84,,R,R
+73,Nitin Saini,N Saini,Indian,10/28/88,FAST_SEAM,R,R
+187,David Miller,D Miller,South African,6/10/89,OFF_SPIN,L,R
+194,Azhar Mahmood,A Mahmood,English,2/28/75,MEDIUM_SEAM,R,R
+153,Arun Karthik,A Karthik,Indian,2/15/86,,L,L
+148,Stuart Binny,S Binny,Indian,6/3/84,MEDIUM_SEAM,R,R
+53,Pawan Negi,P Negi,Indian,1/6/83,ORTHODOX,L,L
+216,Alfonso Thomas,A Thomas,South African,2/9/77,MEDIUM_SEAM,R,R
+215,Thisara Perera,NTLC Perera,Sri Lankan,4/3/89,MEDIUM_SEAM,L,R
+80,Siddharth Chitnis,S Chitnis,Indian,5/6/87,OFF_SPIN,R,R
+37,Ishank Jaggi,I Jaggi,Indian,1/27/89,LEG_SPIN,R,R
+273,Ajit Chandila,A Chandila,Indian,1/1/12,LEG_SPIN,R,R
+285,Luke Wright,L Wright,English,3/7/85,MEDIUM_SEAM,R,R
+214,Robin Peterson,R Peterson,South African,8/4/79,ORTHODOX,R,L
+34,Ashish Reddy,AA Reddy,Indian,2/24/81,MEDIUM_SEAM,R,R
+183,Juan Theron,J Theron,American,7/24/85,MEDIUM_SEAM,R,R
+205,Aiden Blizzard,A Blizzard,Australian,6/27/84,,L,L
+262,Rahul Shukla,R Shukla,Indian,3/19/12,MEDIUM_SEAM,R,R
+20,Michael Hussey,M Hussey,Australian,5/27/75,MEDIUM_SEAM,L,R
+249,Biplap Samantray,B Samantray,Indian,12/14/88,ORTHODOX,L,L
+29,Akshath Reddy,AP Reddy,Indian,2/11/91,MEDIUM_SEAM,R,R
+286,Michael Clarke,M Clarke,Australian,4/2/81,ORTHODOX,R,L
+227,Shane Watson,S Watson,Australian,6/17/81,MEDIUM_SEAM,R,R
+154,Asad Pathan,A Pathan,Indian,6/17/84,LEG_SPIN,R,R
+190,Ryan Harris,R Harris,Australian,10/11/79,FAST_SEAM,R,R
+17,Ben Hilfenhaus,B Hilfenhaus,Australian,3/15/83,FAST_SEAM,R,R
+253,Gurkeerat Mann Singh,GM Singh,Indian,6/29/90,OFF_SPIN,R,R
+228,Shaun Tait,S Tait,Australian,2/22/83,FAST_SEAM,R,R
+413,Dwayne Smith,DR Smith,West Indian,4/12/83,MEDIUM_SEAM,R,R
+151,Abhimanyu Mithun,A Mithun,Indian,10/25/89,MEDIUM_SEAM,R,R
+281,Syed Mohammad,S Mohammad,Indian,1/1/12,ORTHODOX,L,L
+415,Prasanth Parameswaran DUPLICATE,Parameswaran,,5/30/85,MEDIUM_SEAM,R,L
+170,David Warner,D Warner,Australian,10/27/86,LEG_SPIN,L,R
+61,Varun Aaron,V Aaron,Indian,10/29/89,FAST_SEAM,R,R
+91,Pradeep Sangwan,P Sangwan,Indian,11/5/90,MEDIUM_SEAM,R,L
+267,Anustup Majumdar,A Majumdar,Indian,4/30/84,,L,L
+83,Ramesh Powar,R Powar,Indian,5/20/78,OFF_SPIN,R,R
+177,Andre Russell,A Russell,West Indian,4/29/88,FAST_SEAM,R,R
+11,Srikkanth Anirudha,S Anirudha,Indian,4/14/87,,L,L
+242,Mohnish Mishra,M Mishra,Indian,2/9/84,,L,L
+269,Krishnakant Upadhyay,K Upadhyay,Indian,6/18/86,,L,L
+212,Herschelle Gibbs,H Gibbs,South African,2/23/74,LEG_SPIN,R,R
+60,Unmukt Chand,U Chand,Indian,3/26/93,,L,L
+179,Chris Lynn,C Lynn,Australian,4/10/90,,R,L
+119,Harpreet Singh,H Singh,Indian,8/11/91,MEDIUM_SEAM,L,R
+114,Ali Murtaza,A Murtaza,Indian,1/1/90,ORTHODOX,L,L
+101,Dhawal Kulkarni,D Kulkarni,Indian,12/10/88,MEDIUM_SEAM,R,R
+251,Sunny Gupta,S Gupta,Indian,9/27/88,,L,L
+197,Eoin Morgan,E Morgan,English,9/10/86,MEDIUM_SEAM,L,R
+51,Manpreet Juneja,M Juneja,Indian,9/12/90,OFF_SPIN,R,R
+276,Karun Nair,K Nair,Indian,12/6/91,OFF_SPIN,R,R
+361,Ricky Ponting,R Ponting,Australian,12/19/74,MEDIUM_SEAM,R,R
+1124,Jasprit Bumrah,J Bumrah,Indian,12/6/93,FAST_SEAM,R,R
+213,Mitchell Johnson,M Johnson,Australian,11/2/81,FAST_SEAM,L,L
+293,Jacob Oram,J Oram,New Zealander,7/28/78,FAST_SEAM,L,R
+1117,Hanuma Vihari,H Vihari,Indian,10/13/93,OFF_SPIN,R,R
+38,Ishant Sharma,I Sharma,Indian,9/2/88,FAST_SEAM,R,R
+113,Yuvraj Singh,Y Singh,Indian,12/12/81,ORTHODOX,L,L
+221,Mitchell Marsh,M Marsh,Australian,10/20/91,MEDIUM_SEAM,R,R
+716,Kushal Janith Perera,KJ Perera,Sri Lankan,9/6/12,,L,L
+150,Shanthakumaran Sreesanth,S Sreesanth,Indian,2/6/83,MEDIUM_SEAM,R,R
+590,Samuel Badree,S Badree,West Indian,3/9/81,LEG_SPIN,R,R
+237,Dirk Nannes,D Nannes,Australian,5/16/76,FAST_SEAM,L,L
+921,Ben Laughlin,B Laughlin,Australian,10/3/82,MEDIUM_SEAM,R,R
+1106,Ankit Rajpoot,A Rajpoot,Indian,12/4/93,MEDIUM_SEAM,R,R
+1085,Manan Vohra,M Vohra,Indian,7/18/93,OFF_SPIN,R,R
+78,Rajagopal Sathish,R Sathish,Indian,1/14/81,MEDIUM_SEAM,R,R
+388,Moises Henriques,M Henriques,Australian,2/1/87,MEDIUM_SEAM,R,R
+94,Mohammad Shami,M Shami,Indian,9/3/90,FAST_SEAM,R,R
+1088,Rishi Dhawan,R Dhawan,Indian,2/19/90,MEDIUM_SEAM,R,R
+503,Jeevan Mendis,J Mendis,Sri Lankan,1/15/83,LEG_SPIN,L,R
+297,Kedar Jadhav,K Jadhav,Indian,3/26/85,OFF_SPIN,R,R
+836,Chris Morris,C Morris,South African,4/30/87,FAST_SEAM,R,R
+1125,KL Rahul,KL Rahul,Indian,4/18/92,,R,R
+288,Ryan McLaren,R McLaren,South African,2/9/83,MEDIUM_SEAM,R,R
+1091,Harmeet Singh,H Singh,Indian,9/7/92,MEDIUM_SEAM,R,R
+1086,Siddarth Kaul,S Kaul,Indian,5/19/90,MEDIUM_SEAM,R,R
+1107,Mohit Sharma,M Sharma,Indian,12/19/91,MEDIUM_SEAM,R,R
+594,Ravi Rampaul,R Rampaul,West Indian,10/15/84,FAST_SEAM,R,R
+811,Sachithra Senanayake,S Senanayake,Sri Lankan,2/9/85,OFF_SPIN,R,R
+1118,Karn Sharma,K Sharma,Indian,10/23/87,LEG_SPIN,L,R
+258,Sanju Samson,S Samson,Indian,11/11/94,,R,R
+647,Ben Rohrer,B Rohrer,Australian,3/26/81,,R,L
+834,Quinton de Kock,Q de Kock,South African,12/17/92,,L,L
+358,Ajantha Mendis,A Mendis,Sri Lankan,3/11/85,OFF_SPIN,R,R
+1075,Jason Holder,J Holder,West Indian,11/5/91,MEDIUM_SEAM,R,R
+1090,Ishwar Pandey,I Pandey,Indian,8/15/89,MEDIUM_SEAM,R,R
+238,Luke Pomersbach,L Pomersbach,Australian,9/28/84,,L,L
+111,Yuzvendra Chahal,Y Chahal,Indian,7/23/90,LEG_SPIN,R,R
+589,Darren Sammy,D Sammy,West Indian,12/20/83,MEDIUM_SEAM,R,R
+1119,Thalaivan Sargunam,T Sargunam,Indian,5/15/85,,R,L
+93,Sarabjit Ladda,S Ladda,Indian,7/10/86,LEG_SPIN,R,R
+1115,Sachin Baby,S Baby,Indian,12/18/88,,R,R
+798,Kane Richardson,K Richardson,Australian,2/12/91,FAST_SEAM,R,R
+2,Abhinav Mukund,A Mukund,Indian,1/6/90,,L,L
+149,Sumit Narwal,S Narwal,Indian,4/16/82,MEDIUM_SEAM,R,R
+105,Pawan Suyal,P Suyal,Indian,10/15/89,MEDIUM_SEAM,R,L
+1089,Udit Birla,U Birla,Indian,11/17/89,,R,L
+268,Mahesh Rawat,M Rawat,Indian,10/25/85,,L,L
+909,Michael Neser,M Neser,Australian,3/29/90,MEDIUM_SEAM,R,R
+1114,Pravin Tambe,P Tambe,Indian,10/8/71,LEG_SPIN,R,R
+155,Chidhambaram Gautam,C Gautam,Indian,3/8/86,,R,R
+1093,Parveez Rasool,P Rasool,Indian,2/13/89,OFF_SPIN,R,R
+1112,Sandeep Sharma,S Sharma,Indian,5/18/93,MEDIUM_SEAM,R,R
+82,Vikramjeet Malik,V Malik,Indian,5/9/83,MEDIUM_SEAM,R,R
+270,Raiphi Gomez,R Gomez,Indian,10/16/85,MEDIUM_SEAM,R,R
+99,Aditya Tare,A Tare,Indian,11/7/87,,R,R
+840,Nathan Coulter-Nile,N Coulter-Nile,Australian,10/11/87,FAST_SEAM,R,R
+968,Corey Anderson,C Anderson,New Zealander,12/13/90,MEDIUM_SEAM,L,L
+971,Jimmy Neesham,J Neesham,New Zealander,9/17/90,MEDIUM_SEAM,L,R
+858,Nic Maddinson,N Maddinson,Australian,12/21/91,,L,L
+128,Sachin Rana,S Rana,Indian,9/18/84,,L,L
+490,Mitchell Starc,M Starc,Australian,1/30/90,FAST_SEAM,L,L
+19,George Bailey,G Bailey,Australian,9/7/82,,R,R
+1113,Axar Patel,A Patel,Indian,1/20/94,ORTHODOX,L,L
+307,Tim Southee,T Southee,New Zealander,12/11/88,MEDIUM_SEAM,R,R
+1750,Yogesh Takawale,Y Takawale,Indian,11/5/84,,R,R
+918,Ben Dunk,B Dunk,Australian,3/11/87,,L,L
+239,Rilee Rossouw,R Rossouw,South African,10/9/89,,L,L
+1749,Rahul Tewatia,R Tewatia,Indian,5/20/93,LEG_SPIN,L,R
+1744,Shivam Sharma,Shivam Sharma,Indian,9/9/93,MEDIUM_SEAM,R,R
+898,Imran Tahir,I Tahir,South African,3/27/79,LEG_SPIN,R,R
+595,Lendl Simmons,L Simmons,West Indian,1/25/85,MEDIUM_SEAM,R,R
+278,Vijay Zol,V Zol,Indian,11/23/94,,L,R
+1083,Vijay Shankar,V Shankar,Indian,1/26/91,MEDIUM_SEAM,R,R
+913,Ben Cutting,B Cutting,Australian,1/30/87,FAST_SEAM,R,L
+1748,Shreyas Gopal,S Gopal,Indian,9/4/93,LEG_SPIN,R,R
+1747,Krishmar Santokie,K Santokie,West Indian,12/20/84,MEDIUM_SEAM,L,L
+1752,Beuran Hendricks,B Hendricks,South African,6/8/90,FAST_SEAM,L,L
+488,Pat Cummins,P Cummins,Australian,5/8/93,FAST_SEAM,R,R
+748,John Hastings,J Hastings,Australian,11/4/85,MEDIUM_SEAM,R,R
+1743,Karanveer Singh,K Singh,Indian,11/8/87,,R,L
+1563,Shreyas Iyer,S Iyer,Indian,12/6/94,LEG_SPIN,R,R
+2736,Domnic Joseph,D Joseph,Indian,3/9/81,MEDIUM_SEAM,R,R
+412,Anureet Singh,Anureet Singh,Indian,2/26/82,,R,L
+1556,Deepak Hooda,D Hooda,Indian,4/19/95,OFF_SPIN,R,R
+440,Kane Williamson,K Williamson,New Zealander,8/8/90,OFF_SPIN,R,R
+374,Ravi Bopara,R Bopara,English,5/4/85,MEDIUM_SEAM,R,R
+969,Trent Boult,T Boult,New Zealander,7/22/89,FAST_SEAM,R,L
+2743,KC Cariappa,KC Cariappa,Indian,4/13/94,LEG_SPIN,R,R
+942,Sean Abbott,S Abbott,Australian,2/29/92,FAST_SEAM,R,R
+2741,Jagadeesha Suchith,J Suchith,Indian,1/16/94,ORTHODOX,L,L
+869,David Wiese,D Wiese,Namibian,5/18/85,MEDIUM_SEAM,R,R
+2740,Hardik Pandya,H Pandya,Indian,10/11/93,MEDIUM_SEAM,R,R
+730,Mitchell McClenaghan,M McClenaghan,New Zealander,6/11/86,FAST_SEAM,L,L
+1564,Sarfaraz Khan,SN Khan,Indian,10/22/97,LEG_SPIN,R,R
+277,Ronit More,R More,Indian,2/11/92,OFF_SPIN,R,R
+1745,Shardul Thakur,S Thakur,Indian,10/16/91,MEDIUM_SEAM,R,R
+951,Gurinder Sandhu,G Sandhu,Australian,2/14/93,MEDIUM_SEAM,R,R
+1740,Jayant Yadav,J Yadav,Indian,1/22/90,OFF_SPIN,R,R
+2746,Barinder Sran,B Sran,Indian,12/10/92,MEDIUM_SEAM,L,L
+509,Jos Buttler,J Buttler,English,9/8/90,,R,R
+3187,Murugan Ashwin,M Ashwin,Indian,9/8/90,LEG_SPIN,R,R
+773,Colin Munro,C Munro,New Zealander,3/11/87,MEDIUM_SEAM,L,R
+2722,Carlos Brathwaite,C Brathwaite,West Indian,7/18/88,MEDIUM_SEAM,R,R
+964,Marcus Stoinis,M Stoinis,Australian,8/16/89,MEDIUM_SEAM,R,R
+2745,Pradeep Sahu,P Sahu,Indian,8/21/85,LEG_SPIN,R,R
+2975,Ishan Kishan,I Kishan,Indian,7/18/98,,L,L
+434,Adam Milne,A Milne,New Zealander,4/13/92,FAST_SEAM,R,R
+1594,Mustafizur Rahman,M Rahman,Bangladeshi,9/6/95,FAST_SEAM,L,L
+261,Kuldeep Yadav,K Yadav,Indian,12/14/94,UNORTHODOX,L,L
+3177,Akshdeep Nath,A Nath,Indian,5/10/93,MEDIUM_SEAM,R,R
+3183,Krunal Pandya,K Pandya,Indian,3/24/91,ORTHODOX,L,L
+1105,Kyle Abbott,K Abbott,South African,6/18/87,MEDIUM_SEAM,R,R
+431,Martin Guptill,M Guptill,New Zealander,9/30/86,OFF_SPIN,R,R
+1020,Travis Head,T Head,Australian,12/29/93,OFF_SPIN,L,R
+3309,Tabraiz Shamsi,T Shamsi,South African,2/18/90,UNORTHODOX,R,L
+2732,Nikhil Naik,N Naik,Indian,11/9/94,,R,L
+2972,Rishabh Pant,R Pant,Indian,10/4/97,,L,L
+932,Peter Handscomb,P Handscomb,Australian,4/26/91,,R,R
+3178,Shivil Kaushik,S Kaushik,Indian,7/9/95,UNORTHODOX,R,L
+2756,Sam Billings,S Billings,English,6/15/91,,R,R
+1475,Scott Boland,S Boland,Australian,4/11/89,MEDIUM_SEAM,R,R
+3180,Swapnil Singh,S Singh,Indian,1/22/91,,R,L
+948,Usman Khawaja,U Khawaja,Australian,12/18/86,MEDIUM_SEAM,L,R
+1299,Chris Jordan,C Jordan,English,10/4/88,FAST_SEAM,R,R
+958,Adam Zampa,A Zampa,Australian,3/31/92,LEG_SPIN,R,R
+456,Hashim Amla,H Amla,South African,3/31/83,MEDIUM_SEAM,R,R
+457,Farhaan Behardien,F Behardien,South African,10/9/83,MEDIUM_SEAM,R,R
+2738,Nitish Rana,N Rana,Indian,12/27/93,OFF_SPIN,L,R
+140,Deepak Chahar,D Chahar,Indian,8/7/92,MEDIUM_SEAM,R,R
+118,Eklavya Dwivedi ,E Dwivedi ,Indian,7/22/88,,R,R
+2885,Rashid Khan,R Khan,Afghan,9/20/98,LEG_SPIN,R,R
+3319,Tymal Mills,T Mills,English,8/12/92,FAST_SEAM,R,L
+1111,Aniket Choudhary,A Choudhary,Indian,1/28/90,MEDIUM_SEAM,R,L
+1154,Ben Stokes,B Stokes,English,6/4/91,FAST_SEAM,L,R
+1906,Jason Roy,J Roy,English,7/21/90,,R,R
+967,Chris Woakes,C Woakes,English,3/2/89,FAST_SEAM,R,R
+3831,T Natarajan,T Natarajan,Indian,5/27/91,MEDIUM_SEAM,L,L
+3763,Rahul Chahar,R Chahar,Indian,8/4/99,LEG_SPIN,R,R
+4305,Vishnu Vinod,V Vinod,Indian,12/2/93,,R,R
+1521,Billy Stanlake,B Stanlake,Australian,11/4/94,FAST_SEAM,L,R
+3827,Tejas Baroka,T Baroka,Indian,2/1/96,LEG_SPIN,R,R
+3825,Basil Thampi,B Thampi,Indian,9/11/93,MEDIUM_SEAM,R,R
+3838,Rahul Tripathi,R Tripathi,Indian,3/2/91,MEDIUM_SEAM,R,R
+820,Colin de Grandhomme,C de Grandhomme,New Zealander,7/22/86,MEDIUM_SEAM,R,R
+1480,Andrew Tye,A Tye,Australian,12/12/86,MEDIUM_SEAM,R,R
+3729,Lockie Ferguson,L Ferguson,New Zealander,6/13/91,FAST_SEAM,R,R
+618,Mohammad Nabi,M Nabi,Afghan,1/1/85,OFF_SPIN,R,R
+3840,Mohammed Siraj,M Siraj,Indian,3/13/94,MEDIUM_SEAM,R,R
+2973,Washington Sundar,W Sundar,Indian,10/5/99,OFF_SPIN,L,R
+1664,Kagiso Rabada,K Rabada,South African,5/25/95,FAST_SEAM,L,R
+3826,Shubham Agarwal,S Agarwal,Indian,11/21/93,LEG_SPIN,R,R
+3186,Nathu Singh,N Singh,Indian,9/8/95,MEDIUM_SEAM,R,R
+184,Darren Bravo,DM Bravo,West Indian,2/6/89,MEDIUM_SEAM,L,R
+4320,Ankit Soni,A Soni,Indian,,LEG_SPIN,R,R
+1116,Sheldon Jackson,S Jackson,Indian,9/27/86,,R,L
+3823,Ankit Bawne,A Bawne,Indian,12/17/92,OFF_SPIN,R,R
+1505,Matt Henry,M Henry,New Zealander,12/14/91,FAST_SEAM,R,R
+1561,Avesh Khan,A Khan,Indian,12/13/96,FAST_SEAM,R,R
+872,Evin Lewis,E Lewis,West Indian,12/27/91,,L,L
+4951,Mayank Markande,M Markande,Indian,11/11/97,LEG_SPIN,R,R
+2749,Mark Wood,M Wood,English,1/11/90,FAST_SEAM,R,R
+4572,Mujeeb Ur Rahman,M Ur Rahman,Afghan,3/28/01,OFF_SPIN,R,R
+3830,Rinku Singh,R Singh,Indian,10/12/97,LEG_SPIN,R,R
+3835,Kulwant Khejroliya,K Khejroliya,Indian,3/2/95,FAST_SEAM,L,L
+3887,D'Arcy Short,D Short,Australian,8/9/90,UNORTHODOX,L,L
+3834,Krishnappa Gowtham,K Gowtham,Indian,10/20/88,OFF_SPIN,R,R
+3646,Tom Curran,T Curran,English,3/12/95,FAST_SEAM,R,R
+588,Akila Dananjaya,A Dananjaya,Sri Lankan,10/4/93,OFF_SPIN,L,R
+3761,Shubman Gill,S Gill,Indian,9/8/99,OFF_SPIN,R,R
+3779,Shivam Mavi,S Mavi,Indian,11/26/98,FAST_SEAM,R,R
+3869,Heinrich Klaasen,H Klaasen,South African,7/30/91,,R,R
+1555,Ricky Bhui,R Bhui,Indian,9/29/96,,R,L
+3502,Jofra Archer,J Archer,English,4/1/95,FAST_SEAM,R,R
+3764,Prithvi Shaw,P Shaw,Indian,11/9/99,OFF_SPIN,R,R
+1842,Liam Plunkett,L Plunkett,English,4/6/85,FAST_SEAM,R,R
+2970,Mahipal Lomror,M Lomror,Indian,11/16/99,ORTHODOX,L,L
+1304,Ish Sodhi,I Sodhi,New Zealander,10/31/92,LEG_SPIN,R,R
+511,Alex Hales,A Hales,English,1/3/89,MEDIUM_SEAM,R,R
+4944,KM Asif,KM Asif,Indian,7/24/93,MEDIUM_SEAM,R,R
+3746,Lungi Ngidi,L Ngidi,South African,3/29/96,FAST_SEAM,R,R
+4946,Dhruv Shorey,D Shorey,Indian,6/5/92,OFF_SPIN,R,R
+2758,David Willey,D Willey,English,2/28/90,FAST_SEAM,L,L
+5105,Prasidh Krishna,P Krishna,Indian,2/19/96,MEDIUM_SEAM,R,R
+1735,Moeen Ali,M Ali,English,6/18/87,OFF_SPIN,L,R
+3226,Prashant Chopra,P Chopra,Indian,10/7/92,,R,L
+4960,Javon Searles,J Searles,West Indian,12/21/86,FAST_SEAM,R,R
+3760,Abhishek Sharma,A Sharma,Indian,9/4/00,ORTHODOX,L,L
+3013,Sandeep Lamichhane,S Lamichhane,Nepalese,8/14/00,LEG_SPIN,R,R
+4277,Junior Dala,J Dala,South African,12/29/89,MEDIUM_SEAM,R,R
+2964,Khaleel Ahmed,K Ahmed,Indian,12/5/97,MEDIUM_SEAM,R,L
+1705,Shimron Hetmyer,S Hetmyer,West Indian,12/26/96,,L,L
+5431,Shivam Dube,S Dube,Indian,6/26/93,MEDIUM_SEAM,L,R
+3824,Navdeep Saini,N Saini,Indian,11/23/92,FAST_SEAM,R,R
+506,Jonny Bairstow,J Bairstow,English,9/26/89,MEDIUM_SEAM,R,R
+5437,Rasikh Salam,R Salam,Indian,4/5/01,MEDIUM_SEAM,R,R
+168,Colin Ingram,C Ingram,South African,7/3/85,,R,L
+3101,Keemo Paul,K Paul,West Indian,2/21/98,FAST_SEAM,R,R
+1703,Nicholas Pooran,N Pooran,West Indian,10/2/95,,L,L
+2939,Sam Curran,S Curran,English,6/3/98,MEDIUM_SEAM,L,L
+1276,Hardus Viljoen,H Viljoen,South African,3/6/89,MEDIUM_SEAM,R,R
+5432,Varun Chakaravarthy,V Chakaravarthy,Indian,8/29/91,LEG_SPIN,R,R
+5439,Prayas Ray Barman,P R Barman,Indian,10/25/02,LEG_SPIN,R,R
+1903,Mitchell Santner,M Santner,New Zealander,2/5/92,ORTHODOX,L,L
+937,Jason Behrendorff,J Behrendorff,Australian,4/20/90,FAST_SEAM,R,L
+1859,Scott Kuggeleijn,S Kuggeleijn,New Zealander,1/3/92,FAST_SEAM,R,R
+3098,Alzarri Joseph,A Joseph,West Indian,11/20/96,FAST_SEAM,R,R
+4950,Sudhesan Midhun,S Midhun,Indian,10/7/94,LEG_SPIN,R,R
+1737,Harry Gurney,H Gurney,English,10/25/86,MEDIUM_SEAM,R,L
+2739,Siddhesh Lad,SD Lad,Indian,5/23/92,OFF_SPIN,R,R
+4445,Riyan Parag,R Parag,Indian,11/10/01,LEG_SPIN,R,R
+3611,Joe Denly,J Denly,English,3/16/86,LEG_SPIN,R,R
+3644,Liam Livingstone,L Livingstone,English,8/4/93,LEG_SPIN,R,R
+4698,Arshdeep Singh,A Singh,Indian,2/5/99,MEDIUM_SEAM,L,L
+1285,Ashton Turner,A Turner,Australian,1/25/93,OFF_SPIN,R,R
+5396,Sherfane Rutherford,S Rutherford,West Indian,8/15/98,MEDIUM_SEAM,L,R
+5441,Harpreet Brar,H Brar,Indian,9/16/95,ORTHODOX,L,L
+5438,Prithvi Raj Yarra,PR Yarra,Indian,2/20/98,MEDIUM_SEAM,L,L
+5146,Oshane Thomas,O Thomas,West Indian,2/18/97,FAST_SEAM,L,R
+3774,Anukul Roy,A Roy,Indian,11/30/98,ORTHODOX,L,L
+1092,Sandeep Warrier,S Warrier,Indian,4/4/91,MEDIUM_SEAM,R,R
+5436,Prabhsimran Singh,P Singh,Indian,8/10/00,,R,R
+199,James Pattinson,J Pattinson,Australian,5/3/90,FAST_SEAM,L,R
+5433,Anrich Nortje,A Nortje,South African,11/16/93,FAST_SEAM,R,R
+1309,Sheldon Cottrell,S Cottrell,West Indian,8/19/89,FAST_SEAM,R,L
+19351,Ravi Bishnoi,R Bishnoi,Indian,9/5/00,LEG_SPIN,R,R
+3775,Priyam Garg,P Garg,Indian,11/30/00,MEDIUM_SEAM,R,R
+5430,Devdutt Padikkal,D Padikkal,Indian,7/7/00,OFF_SPIN,L,R
+4518,Josh Philippe,J Philippe,Australian,6/1/97,,R,R
+13538,Yashasvi Jaiswal,Y Jaiswal,Indian,12/28/01,MEDIUM_SEAM,L,L
+5443,Ruturaj Gaikwad,R Gaikwad,Indian,1/31/97,OFF_SPIN,R,R
+857,Josh Hazlewood,J Hazlewood,Australian,1/8/91,FAST_SEAM,L,R
+3766,Kamlesh Nagarkoti,K Nagarkoti,Indian,12/28/99,MEDIUM_SEAM,R,R
+690,Isuru Udana,I Udana,Sri Lankan,2/17/88,MEDIUM_SEAM,R,L
+19352,Abdul Samad,A Samad,Indian,10/28/01,LEG_SPIN,R,R
+10059,Kartik Tyagi,K Tyagi,Indian,11/8/00,FAST_SEAM,R,R
+4942,Narayan Jagadeesan,N Jagadeesan,Indian,12/24/95,,R,R
+3882,Alex Carey,A Carey,Australian,8/27/91,,L,L
+3770,Tom Banton,T Banton,English,11/11/98,,R,R
+3257,Tushar Deshpande,T Deshpande,Indian,5/15/95,MEDIUM_SEAM,R,R
+3803,Chris Green,C Green,South African,10/1/93,OFF_SPIN,R,R
+13803,Shahbaz Ahmed,S Ahmed,Indian,12/11/94,ORTHODOX,L,L
+4649,Daniel Sams,D Sams,Australian,10/27/92,FAST_SEAM,R,L
+1560,Monu Kumar,M Kumar,Indian,11/5/94,MEDIUM_SEAM,R,R
+3188,Pravin Dubey,P Dubey,Indian,7/1/93,LEG_SPIN,R,R
+17068,Marco Jansen,M Jansen,South African,5/1/00,FAST_SEAM,R,L
+5471,Rajat Patidar,R Patidar,Indian,6/1/93,OFF_SPIN,R,R
+1616,Kyle Jamieson,K Jamieson,New Zealander,12/30/94,MEDIUM_SEAM,R,R
+11062,Chetan Sakariya,C Sakariya,Indian,2/28/98,FAST_SEAM,L,L
+7779,Shahrukh Khan,S Khan,Indian,5/27/95,MEDIUM_SEAM,R,R
+3781,Jhye Richardson,J Richardson,Australian,9/20/96,FAST_SEAM,R,R
+4055,Riley Meredith,R Meredith,Australian,6/21/96,FAST_SEAM,R,R
+6870,Lalit Yadav,L Yadav,Indian,1/3/97,OFF_SPIN,R,R
+6966,Virat Singh,V Singh,Indian,12/8/97,OFF_SPIN,L,R
+7803,Lukman Meriwala,L Meriwala,Indian,12/11/91,FAST_SEAM,L,L
+1087,Jalaj Saxena,J Saxena,Indian,12/15/86,OFF_SPIN,R,R
+1707,Fabian Allen,F Allen,West Indian,5/7/95,ORTHODOX,R,L
+10788,Anuj Rawat,A Rawat,Indian,10/17/99,FAST_SEAM,L,R
+3318,Dawid Malan,D Malan,English,9/3/87,LEG_SPIN,L,R
+2965,Anmolpreet Singh,A Singh,Indian,3/28/98,,R,R
+8540,Venkatesh Iyer,V Iyer,Indian,12/25/94,MEDIUM_SEAM,L,R
+2734,K.S Bharat,KS Bharat,Indian,10/3/93,,R,L
+3082,Wanindu Hasaranga,W Hasaranga,Sri Lankan,7/29/97,LEG_SPIN,R,R
+1667,Aiden Markram,A Markram,South African,10/4/94,OFF_SPIN,R,R
+3777,Ishan Porel,I Porel,Indian,9/5/98,MEDIUM_SEAM,R,R
+796,Adil Rashid,A Rashid,English,2/17/88,LEG_SPIN,R,R
+4524,Tim David,T David,Singaporean,3/16/96,OFF_SPIN,R,R
+17118,Nathan Ellis,N Ellis,Australian,9/22/94,FAST_SEAM,R,R
+2942,George Garton,G Garton,English,4/15/97,FAST_SEAM,L,L
+1619,Tim Seifert,T Seifert,New Zealander,12/14/94,,R,L
+3027,Glenn Phillips,G Phillips,New Zealander,12/6/96,OFF_SPIN,R,R
+12585,Akash Singh,A Singh,Indian,4/26/02,FAST_SEAM,R,L
+15154,Umran Malik,U Malik,Indian,11/22/99,FAST_SEAM,R,R
+17191,Ripal Patel,R Patel,Indian,9/28/95,FAST_SEAM,R,R
+12480,Kuldip Yadav,K Yadav,Indian,10/15/96,FAST_SEAM,R,L
